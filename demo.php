@@ -25,3 +25,4 @@ moyene($eleve['note']);
 
 echo 'Bonjour je m\'apelle'. " " .$eleve['nom'] .' '.$eleve['prenom'] ." " . 'j\'ai'." ". $eleve['age']." ".'ans et j\'ai'." ".$total." ".'de moyene';
 
+?>
